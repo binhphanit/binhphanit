@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Binh Phan
 
-<!--
-**binhphanit/binhphanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year IT Student  
+💻 Java Backend Developer (Learning)  
+📚 Learning Spring Boot, REST APIs, and MySQL  
+🔍 Seeking Backend Internship opportunities  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Java Core
+- Spring Boot
+- REST API
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+📧 phanhuybinh692006cm@gmail.com
