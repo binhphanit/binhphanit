@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Binh Phan
 
-🎓 Second-year IT Student  
+🎓 Junior IT Student  
 💻 Java Backend Developer (Learning)  
 📚 Learning Spring Boot, REST APIs, and MySQL  
 🔍 Seeking Backend Internship opportunities  
