@@ -6,11 +6,11 @@
 🔍 Seeking Backend Internship opportunities  
 
 ### 🔧 Skills
-- Java Core
+- Java Core 
 - Spring Boot
 - REST API
 - MySQL
 - Git & GitHub
-
+- Tech 
 ### 📫 Contact
 📧 phanhuybinh692006cm@gmail.com
